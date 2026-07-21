@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kunals1281/Leetcode-Questions/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/1009-complement-of-base-10-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
