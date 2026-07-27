@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kunals1281/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kunals1281/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 ## Enumeration
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kunals1281/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
