@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
+| [0704-binary-search](https://github.com/kunals1281/Leetcode-Questions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kunals1281/Leetcode-Questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
