@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunals1281/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunals1281/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunals1281/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunals1281/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
