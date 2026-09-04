@@ -2,7 +2,6 @@ class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int n = piles.size();
-        sort(piles.begin(), piles.end());
         int start = 0, end = 0;
         long long sum = 0;
         for (int i = 0; i < n; i++) {
