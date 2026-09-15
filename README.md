@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunals1281/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunals1281/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 ## Memoization
@@ -125,9 +127,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunals1281/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kunals1281/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
