@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/kunals1281/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/kunals1281/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/kunals1281/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunals1281/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
