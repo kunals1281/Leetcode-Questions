@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kunals1281/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunals1281/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0414-third-maximum-number) |
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/kunals1281/Leetcode-Questions/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -153,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3033-modify-the-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/3033-modify-the-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
