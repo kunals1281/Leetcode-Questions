@@ -2,28 +2,13 @@ class Solution {
 public:
     int distributeCandies(vector<int>& candyType) {
         int n = candyType.size();
-        int max_candy = n / 2;
-        int candy = 0;
+
+        set<int> s;
 
         for (int i = 0; i < n; i++) {
-            bool found = false;
-
-            for (int j = 0; j < i; j++) {
-                if (candyType[i] == candyType[j]) {
-                    found = true;
-                    break;
-                }
-            }
-
-            if (!found) {
-                candy++;
-            }
+            s.insert(candyType[i]);
         }
 
-        if (candy > max_candy) {
-            return max_candy;
-        }
-
-        return candy;
+        return min((int)s.size(), n / 2);
     }
 };
