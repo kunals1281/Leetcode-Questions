@@ -1,7 +1,7 @@
 class Solution {
 public:
     int theMaximumAchievableX(int num, int t) {
-        int x = num + 2 * t;
+        int x = num + t+t;
         if (num > 0) {
             num++;
         }
