@@ -4,23 +4,15 @@ public:
         if (nums.empty())
             return 0;
 
-        int n = nums.size();
-        vector<int> a;
+        int insertIndex = 1;
 
-        a.push_back(nums[0]);
-
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i] == nums[i + 1]) {
-                continue;
-            } else {
-                a.push_back(nums[i + 1]);
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] != nums[i - 1]) {
+                nums[insertIndex] = nums[i];
+                insertIndex++;
             }
         }
 
-        for (int i = 0; i < a.size(); i++) {
-            nums[i] = a[i];
-        }
-
-        return a.size();
+        return insertIndex;
     }
 };
