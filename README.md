@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/kunals1281/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/kunals1281/Leetcode-Questions/tree/master/0575-distribute-candies) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunals1281/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0283-move-zeroes) |
 ## Geometry
 |  |
 | ------- |
