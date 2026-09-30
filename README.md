@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/kunals1281/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/kunals1281/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kunals1281/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kunals1281/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3033-modify-the-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/3033-modify-the-matrix) |
 ## Divide and Conquer
