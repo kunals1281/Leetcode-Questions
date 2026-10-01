@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kunals1281/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunals1281/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/kunals1281/Leetcode-Questions/tree/master/0575-distribute-candies) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
