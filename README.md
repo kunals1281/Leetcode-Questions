@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kunals1281/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/kunals1281/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/kunals1281/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kunals1281/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0766-toeplitz-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3033-modify-the-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/3033-modify-the-matrix) |
