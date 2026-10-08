@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-
         int n = nums.size();
         vector<int> result(n);
         int p_int = 0;
