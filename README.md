@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kunals1281/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunals1281/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kunals1281/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
