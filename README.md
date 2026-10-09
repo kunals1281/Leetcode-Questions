@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/kunals1281/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/kunals1281/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/kunals1281/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
 |  |
 | ------- |
