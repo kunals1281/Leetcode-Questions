@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kunals1281/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/kunals1281/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/kunals1281/Leetcode-Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/kunals1281/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
@@ -246,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kunals1281/Leetcode-Questions/tree/master/1051-height-checker) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
