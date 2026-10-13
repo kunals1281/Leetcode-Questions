@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1920-build-array-from-permutation](https://github.com/kunals1281/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kunals1281/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/kunals1281/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
