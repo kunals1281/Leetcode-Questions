@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/kunals1281/Leetcode-Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/kunals1281/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/kunals1281/Leetcode-Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
