@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kunals1281/Leetcode-Questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kunals1281/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunals1281/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/kunals1281/Leetcode-Questions/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/kunals1281/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunals1281/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/kunals1281/Leetcode-Questions/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
 | ------- |
