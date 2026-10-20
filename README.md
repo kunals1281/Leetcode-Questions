@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/kunals1281/Leetcode-Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/kunals1281/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
+| [2485-find-the-pivot-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/kunals1281/Leetcode-Questions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2485-find-the-pivot-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
