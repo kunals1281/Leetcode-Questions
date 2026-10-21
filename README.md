@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kunals1281/Leetcode-Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kunals1281/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kunals1281/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunals1281/Leetcode-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/kunals1281/Leetcode-Questions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Minimax
 |  |
 | ------- |
