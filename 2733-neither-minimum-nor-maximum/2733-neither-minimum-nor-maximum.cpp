@@ -11,9 +11,8 @@ public:
             if (max < nums[i]) {
                 s_max = max;
                 max = nums[i];
-            }
-            else if(nums[i]<=max&&nums[i]>=s_max) {
-                s_max=nums[i];
+            } else if (nums[i] <= max && nums[i] >= s_max) {
+                s_max = nums[i];
             }
         }
         return s_max;
