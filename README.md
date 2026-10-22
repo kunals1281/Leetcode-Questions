@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kunals1281/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunals1281/Leetcode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kunals1281/Leetcode-Questions/tree/master/1837-sum-of-digits-in-base-k) |
