@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/kunals1281/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunals1281/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/kunals1281/Leetcode-Questions/tree/master/3895-count-digit-appearances) |
+| [3908-valid-digit-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/3908-valid-digit-number) |
 ## Enumeration
 |  |
 | ------- |
