@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kunals1281/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunals1281/Leetcode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunals1281/Leetcode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
