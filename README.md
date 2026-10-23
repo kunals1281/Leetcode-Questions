@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kunals1281/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/kunals1281/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kunals1281/Leetcode-Questions/tree/master/0728-self-dividing-numbers) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kunals1281/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
