@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -322,5 +323,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
