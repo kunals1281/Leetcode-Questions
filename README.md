@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/kunals1281/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/kunals1281/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2739-total-distance-traveled](https://github.com/kunals1281/Leetcode-Questions/tree/master/2739-total-distance-traveled) |
