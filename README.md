@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/kunals1281/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunals1281/Leetcode-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/kunals1281/Leetcode-Questions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/kunals1281/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kunals1281/Leetcode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kunals1281/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/kunals1281/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/kunals1281/Leetcode-Questions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunals1281/Leetcode-Questions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kunals1281/Leetcode-Questions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
