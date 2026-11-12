@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/kunals1281/Leetcode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kunals1281/Leetcode-Questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/kunals1281/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3033-modify-the-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/3033-modify-the-matrix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kunals1281/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kunals1281/Leetcode-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2739-total-distance-traveled](https://github.com/kunals1281/Leetcode-Questions/tree/master/2739-total-distance-traveled) |
+| [2974-minimum-number-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kunals1281/Leetcode-Questions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/kunals1281/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/kunals1281/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Minimax
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
