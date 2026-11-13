@@ -1,21 +1,17 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int rem = 0;
-        vector<int> ans;
+        int max1 = 0, max2 = 0;
         while (n > 0) {
-            rem = n % 10;
-            ans.push_back(rem);
-            n/=10;
-        }
-        int no = ans.size();
-        int max_p = 0;
-        for (int i = 0; i < no - 1; i++) {
-            for (int j = i + 1; j < no; j++) {
-                int p = ans[i] * ans[j];
-                max_p = max(max_p, p);
+            int rem = n % 10;
+            if (rem >= max1) {
+                max2 = max1;
+                max1 = rem;
+            } else if (rem > max2) {
+                max2 = rem;
             }
+            n /= 10;
         }
-        return max_p;
+        return max1 * max2;
     }
 };
