@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kunals1281/Leetcode-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/kunals1281/Leetcode-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kunals1281/Leetcode-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/kunals1281/Leetcode-Questions/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kunals1281/Leetcode-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/kunals1281/Leetcode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/kunals1281/Leetcode-Questions/tree/master/3033-modify-the-matrix) |
 ## Divide and Conquer
