@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kunals1281/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kunals1281/Leetcode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/kunals1281/Leetcode-Questions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/kunals1281/Leetcode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kunals1281/Leetcode-Questions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kunals1281/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/kunals1281/Leetcode-Questions/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunals1281/Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/kunals1281/Leetcode-Questions/tree/master/2396-strictly-palindromic-number) |
 ## Geometry
 |  |
 | ------- |
