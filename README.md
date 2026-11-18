@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kunals1281/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunals1281/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/kunals1281/Leetcode-Questions/tree/master/3895-count-digit-appearances) |
+| [3978-unique-middle-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kunals1281/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/kunals1281/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/kunals1281/Leetcode-Questions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
