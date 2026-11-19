@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/kunals1281/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunals1281/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunals1281/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/kunals1281/Leetcode-Questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/kunals1281/Leetcode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunals1281/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/kunals1281/Leetcode-Questions/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/kunals1281/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/kunals1281/Leetcode-Questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
