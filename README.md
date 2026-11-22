@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kunals1281/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kunals1281/Leetcode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/kunals1281/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/kunals1281/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kunals1281/Leetcode-Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/kunals1281/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kunals1281/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/kunals1281/Leetcode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kunals1281/Leetcode-Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2485-find-the-pivot-integer](https://github.com/kunals1281/Leetcode-Questions/tree/master/2485-find-the-pivot-integer) |
 ## Heap (Priority Queue)
